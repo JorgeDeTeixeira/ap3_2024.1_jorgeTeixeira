@@ -1,5 +1,3 @@
-package gabarito_aula2;
-
 public class TiposPrimitivos {
     // Tipos Primitivos: Crie um programa que declare variáveis de todos os tipos
     // primitivos em Java (byte, short, int, long, float, double, boolean, char) e

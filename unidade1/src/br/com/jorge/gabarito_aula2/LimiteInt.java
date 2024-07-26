@@ -1,5 +1,3 @@
-package gabarito_aula2;
-
 public class LimiteInt {
     public static void main(String[] args) {
         int valorMaximo = Integer.MAX_VALUE;
