@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//1724198221
 public class Questao1 {
 
   public double getDistancia() {
