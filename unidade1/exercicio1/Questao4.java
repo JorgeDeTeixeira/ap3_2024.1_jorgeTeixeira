@@ -1,8 +1,8 @@
 public class Questao4 {
     public static void main(String[] args) {
-        Contato c1 = new Contato("João", "1234-5678");
-        Contato c2 = new Contato("Maria", "8765-4321");
-        Contato c3 = new Contato("José", "4321-5678");
+        Pintor c1 = new Pintor("Leonardo da Vinci", "1111-1111");
+        Pintor c2 = new Pintor("Michelangelo", "2222-2222");
+        Pintor c3 = new Pintor("Rafael", "3333-3333");
 
         c1.toString();
         c2.toString();
