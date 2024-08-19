@@ -1,3 +1,7 @@
+//Xico - corrigindo: falta javadoc
+//Xico - corrigindo: falta codigo secreto
+//Xico - corrigindo: falta pacote
+
 public class Contato {
     private String nome;
     private String telefone;
@@ -28,3 +32,4 @@ public class Contato {
         return "Contato [nome=" + nome.toUpperCase() + ", telefone=" + telefone + "]";
     }
 }
+

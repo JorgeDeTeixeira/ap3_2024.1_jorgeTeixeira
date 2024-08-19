@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Xico - corrigindo: falta javadoc
+//Xico - corrigindo: falta codigo secreto
+//Xico - corrigindo: falta pacote
 public class Questao3 {
 
     public static void main(String[] args) {
